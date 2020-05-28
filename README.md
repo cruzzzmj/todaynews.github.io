@@ -5,7 +5,6 @@
         <title>Derivado de "Desafío "Periodico""</title>
          
     </head>
-    <body style="background-color: rgb(196, 215, 245);">
 
 <h1 style="background:skyblue; color: white;padding: 5px 95px;">Periodico Today News</h1>
  
